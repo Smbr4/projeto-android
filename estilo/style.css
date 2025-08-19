@@ -114,9 +114,9 @@ main img.grande {
     margin: auto;
 }
 main img.pequena{
-    max-width: 350px;
+    max-width: 250px;
     display: block;
-    margin: 10%;
+    margin: 50%;
 }
 
 main a{
