@@ -111,7 +111,7 @@ main  p{
 main img.grande {
     padding:10px; 
     display: block;
-    margin: auto;
+    margin-left: 10%;
 }
 main img.pequena{
     max-width: 350px;
