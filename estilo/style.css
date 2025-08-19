@@ -111,12 +111,12 @@ main  p{
 main img.grande {
     padding:10px; 
     display: block;
-    margin-left: 10%;
+    margin: auto;
 }
 main img.pequena{
     max-width: 350px;
     display: block;
-    margin: auto;
+    margin: 10%;
 }
 
 main a{
